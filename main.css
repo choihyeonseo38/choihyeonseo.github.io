@@ -1,0 +1,31 @@
+h1 {
+    color :darkblue ;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.card {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+.ard_img {
+    width: 150px;
+    height: 150px;
+}
+
+.card_title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.card_button {
+    font-size: 20px;
+    width: 250px;
+    height: 40px;
+    background-color: green;
+    color: white;
+}
